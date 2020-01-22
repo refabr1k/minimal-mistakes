@@ -1,5 +1,5 @@
 ---
-title: "OWASP Broken Web Applications - Setting up / WebGoat (Part 1)"
+title: "OWASP Broken Web Applications - Getting Started"
 date: 2020-01-22
 categories:
   - OWASP-BWA

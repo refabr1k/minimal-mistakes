@@ -1,5 +1,5 @@
 ---
-title: "OWASP Broken Web Applications - WebGoat Walkthrough (Part 2)"
+title: "OWASP Broken Web Applications - WebGoat Walkthrough"
 date: 2020-01-22
 categories:
   - OWASP-BWA
