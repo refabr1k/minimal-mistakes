@@ -17,11 +17,11 @@ The fanboy in me immediately embarked on this training myself. I really want to 
 2. Using VMWare > Open a Virtual Machine > Select .vmx file
 3. If prompted select 'I copied it'
 4. Configure network settings to 'host only' (its vulnerable webapps and shouldn't be exposed to public unless you like to invite hackers in!)
-5. Start! 
+5. Start the VM and hack away! 
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/owaspbwa/settingup.png)
 
-Start hacking! 
+I document the walkthrough as I progress here [https://github.com/refabr1k/owasp-bwa-solutions](https://github.com/refabr1k/owasp-bwa-solutions)
 
 
 
