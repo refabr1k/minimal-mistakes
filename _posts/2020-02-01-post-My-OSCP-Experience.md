@@ -1,6 +1,6 @@
 ---
 title: "My OSCP Experience (I TRIED HARDER!!)"
-date: 2020-01-30
+date: 2020-02-01
 categories:
   - Learning
 tags:
