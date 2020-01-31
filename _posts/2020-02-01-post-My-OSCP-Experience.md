@@ -17,7 +17,7 @@ I remember that all I wanted was to better my circumstances (and to get a break 
 
 This has to be the best hands-on book for beginning pentesting! After following and doing the labs, I got my first Shell experience (hacking remotely) into a windows machine (Exploiting the MS08-067 using metasploit on a Windows XP) and felt like a winner. Its an addictive feeling, getting a shell! I later learnt about Capture-The-Flag machines (like in [vulnhub]([https://www.vulnhub.com/](https://www.vulnhub.com/)) that are designed to be vulnerable for hacking practice. At this point, hacking really got me excited but most importantly the idea that you could hack (legally) and get paid to do it for companies (Penetration Testing) became a career goal for me. **In the process of finding vulnerabilities in computer systems and exploiting them (or showing how to) so that the company would be able to become more secure** is the reason why I want to do this. And its fun too!
 
-Tip: *Good to read [Georgia Weidman's Introduction to Penetration Testing](2019-04-13-post-gwpentesting1.md) (but not a must!) before starting OSCP*
+Tip: *Good to read **Georgia Weidman's Introduction to Penetration Testing** (but not a must!) before starting OSCP*
 
 Tip: *This will help for dealing with Linux [wargames bandit](https://overthewire.org/wargames/bandit/)*
 
