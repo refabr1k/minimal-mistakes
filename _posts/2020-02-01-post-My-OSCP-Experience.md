@@ -17,7 +17,7 @@ About 1 year or less ago, I knew nothing about penetration testing or what a get
 
 I remember that all I wanted was to better my circumstances (and to get a break from drag-my-feat-to-work kind of job) and follow my desire of working in a security role. I started studying for CEH (Certified Ethical Hacker) which at that had been a 3 year goal now and decided I should finally get into it (The book I bought was version 8 and theres even version 10 now!). I also got myself an ebook **Georgia Weidman's Introduction to Penetration Testing** after reading some reviews about it online.
 
-This has to be the best hands-on book for beginning pentesting! After following and doing the labs, I got my first Shell experience (hacking remotely) into a windows machine (Exploiting the MS08-067 using metasploit on a Windows XP) and felt like a winner. Its an addictive feeling, getting a shell! I later learnt about Capture-The-Flag machines (like in [VulnHub](https://www.vulnhub.com/)) that are designed to be vulnerable for hacking practice. At this point, hacking really got me excited but most importantly the idea that you could hack (legally) and get paid to do it for companies (Penetration Testing) became a career goal for me. **In the process of finding vulnerabilities in computer systems and exploiting them (or showing how to) so that the company would be able to become more secure** is the reason why I want to do this. And its fun too!
+This has to be the best hands-on book for beginning pentesting! After following and doing the labs, I got my first Shell experience (hacking remotely) into a windows machine (Exploiting the MS08-067 using metasploit on a Windows XP) and felt like a winner. Its an addictive feeling, getting a shell! I later learnt about Capture-The-Flag machines (like in [VulnHub](https://www.vulnhub.com/)) that are designed to be vulnerable for hacking practice. At this point, hacking really got me excited but most importantly the idea that you could hack legally and get paid in a job to do it for companies (penetration testing) became a career goal for me. **In the process of finding vulnerabilities in computer systems and exploiting them (or showing how to) so that the company would be able to become more secure** is the reason why I want to do this. And its fun too!
 
 # <a name="START"></a>OSCP START
 
@@ -73,8 +73,11 @@ The exam duration is 23h 45mins and made sure I read the [OSCP exam guide](https
 My plan was simply to work on the buffer overflow machine while I run [AutoRecon] to scan the remainding 4 machines.
 
 And I had a target timeline like this: 
+
 1000-0100hrs (15hrs) - hack all 
+
 0100-0700hrs (6hrs) - sleep sweet 
+
 0700-1000hrs (3hrs) - last effort and to check flags submitted/recorded/screenshot.
 
 The actual was:
