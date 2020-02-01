@@ -19,13 +19,6 @@ I remember that all I wanted was to better my circumstances (and to get a break 
 
 This has to be the best hands-on book for beginning pentesting! After following and doing the labs, I got my first Shell experience (hacking remotely) into a windows machine (Exploiting the MS08-067 using metasploit on a Windows XP) and felt like a winner. Its an addictive feeling, getting a shell! I later learnt about Capture-The-Flag machines (like in [VulnHub](https://www.vulnhub.com/)) that are designed to be vulnerable for hacking practice. At this point, hacking really got me excited but most importantly the idea that you could hack (legally) and get paid to do it for companies (Penetration Testing) became a career goal for me. **In the process of finding vulnerabilities in computer systems and exploiting them (or showing how to) so that the company would be able to become more secure** is the reason why I want to do this. And its fun too!
 
-Tip: *Good to read **Georgia Weidman's Introduction to Penetration Testing** (but not a must!) before starting OSCP*
-
-Tip: *This will help for dealing with Linux [wargames bandit](https://overthewire.org/wargames/bandit/)*
-
-Tip: *Good to do vulnerable machines like [Vulnhub](https://www.vulnhub.com/)/[Hack The Box](https://www.hackthebox.eu/) listed in [TJnull's OSCP blog post](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)*
-Tip: *Good bloggers that inspired me to do OSCP - [hakluke](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440), [James Hall](https://411hall.github.io/OSCP-Preparation/), [Abatchy](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob), [KongWenBin](https://kongwenbin.wordpress.com/2017/02/23/officially-oscp-certified/)*
-
 # <a name="START"></a>OSCP START
 
 After sleeping on the idea of starting OSCP for a while (*what if i fail? if buy labs and time runs out? should i hold it until i become more Pro/skillful?*) I finally YOLO and signed up for the course **90days lab + exam** and expected to start the labs Right away, but damn there was a wait time (about 1 month). After the wait, I finally got the download link for videos/course materials in my email, at this point your labs are also active which means you could login and start hacking away. 
@@ -39,6 +32,14 @@ A good thing to maximise your time with labs is to start automating you scans by
 I wrote notes and document them all in **[OneNote](https://www.onenote.com/)** (so I could also access them on my phone and read them if I need to). If you are thinking which note taking app should you use? Up to you! But If I could turn back time, I'll use **[CherryTree](https://www.giuspen.com/cherrytree/)** notes to take my notes for the Exam and explain why later. So I did not touch my labs until 1.5months in (yes totally regretted it)... Being a father of 2 kids and trying to learn something new is difficult and time consuming, besides I am also not a genius. 
 
 Something that helped me greatly when doing OSCP was syncing my folder (containing all workings/notes/exploit/scripts) with cloud storage like google drive. You could use external storages but I find cloud storages the safest in case the external storages goes wonky or worst, missing. I also used the provided Kali linux vmware and try not to update it. [It was mentioned there is no need to update the VM](https://support.offensive-security.com/pwk-kali-vm/) But if you did and your whole kali somehow messes up, you could always scrap the VM and spin up a new one. And since you can add back your google drive folder as shared folder in your kali linux, you can access them again.
+
+Tip: *Good to read **Georgia Weidman's Introduction to Penetration Testing** (but not a must!) before starting OSCP*
+
+Tip: *This will help for dealing with Linux [wargames bandit](https://overthewire.org/wargames/bandit/)*
+
+Tip: *Good to do vulnerable machines like [Vulnhub](https://www.vulnhub.com/)/[Hack The Box](https://www.hackthebox.eu/) listed in [TJnull's OSCP blog post](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)*
+
+Tip: *Good bloggers that inspired me to do OSCP - [hakluke](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440), [James Hall](https://411hall.github.io/OSCP-Preparation/), [Abatchy](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob), [KongWenBin](https://kongwenbin.wordpress.com/2017/02/23/officially-oscp-certified/)*
 
 Tip: *Use a good note taking tool like CherryTree which allows you to import/export templates for formating your lab/exam reports easily*
 
