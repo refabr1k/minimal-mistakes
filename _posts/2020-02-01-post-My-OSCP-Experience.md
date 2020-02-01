@@ -1,5 +1,5 @@
 ---
-title: "My OSCP Experience (I TRIED HARDER!!)"
+title: "My OSCP Experience & Tips (I TRIED HARDER!!)"
 date: 2020-02-01
 categories:
   - Learning
@@ -94,7 +94,9 @@ Tip: *Move on when you can't get anything and revisit it later, who knows for al
 After completing the exam I now had to finish my report and submit it within 24hrs. I Another thing I should have done was taking the screenshots and submitting them immediately: do `ifconfig` or `ipconfig`, `cat root.txt` or `type root.txt`, `whoami` all in 1 screenshots the moment you get the flag, then submit the flag on the exam dashboard. Since I thought I had my OBS recorder running, could always go back and get them. But it was a nightmare later when preparing the exam report because I did not **take note of video timestamp for each major step**. Since I work on different boxes at the same time (jumping all over the place), I wasted alot of time when doing the report trying to skim through my video (16+ hours long video!) and trace back my steps. For the 2 machine which I didn't get root, I nevertheless still reported the vulnerability findings and recommended actions to prevent security compromise and also **what I would have done if there was enough time to continue pentesting**. There are no requirements that said you have to do so, but I assumed the role of a Real penetration tester giving a assessment report for my client's system. I thought who knows maybe I could score some brownie-points (these are purely my thoughts). Finally, made sure to double check the report and [submission instructions](https://support.offensive-security.com/oscp-exam-guide/#section-3-submission-instructions) ensuring all things are in order. I finally submitted the report.
 
 Tip: *If you do video recording, make notes of timestamps each major steps eg. at 2hrs 15mins found a vuln that lead to privesc for box 1*
+
 Tip: *capture screen showing ip address, flag, whoami immediately when you get flags, submit them.*
+
 Tip: *Prepare your lab all your course + 10 lab writeups to get additional 5 bonus points, you will get a peace of mind knowing you stand a higher chance passing the exam if you were just missing 5 or less points to hit passing score.*
 
 # RESULTS
