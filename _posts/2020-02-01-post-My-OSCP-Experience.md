@@ -75,7 +75,9 @@ My plan was simply to work on the buffer overflow machine while I run [AutoRecon
 And I had a target timeline like this: 
 
 1000-0100hrs (15hrs) - hack all 
+
 0100-0700hrs (6hrs) - sleep sweet 
+
 0700-1000hrs (3hrs) - last effort and to check flags submitted/recorded/screenshot.
 
 The actual was:
