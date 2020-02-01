@@ -100,7 +100,7 @@ Tip: *capture screen showing ip address, flag, whoami immediately when you get f
 Tip: *Prepare your lab all your course + 10 lab writeups to get additional 5 bonus points, you will get a peace of mind knowing you stand a higher chance passing the exam if you were just missing 5 or less points to hit passing score.*
 
 # RESULTS
-Shortly after just few days of submission, I was pleasantly surprised that I had received email notification informing that I had passed Offensive Security Certified Professional (OSCP) on the first attempt. The evaluation duration was really fast, and I'm guessing also because I didn't submit my lab+course work (bonus 5 points) so evaluating my results probably got faster (just my thoughts). 
+Shortly after just few days of submission, I was pleasantly surprised that I had received email notification informing that I had passed Offensive Security Certified Professional (OSCP) on the first attempt (21-Dec-2019). The evaluation duration was really fast, and I'm guessing also because I didn't submit my lab+course work (bonus 5 points) so evaluating my results probably got faster (just my thoughts). 
 
 I'm glad to have walked the OSCP journey and will always remember this milestone in my life: I Tried Harder! If you are doing OSCP and have any questions feel free to contact me at discord (refabr1k#1038) or [email](mailto:refabriksec@gmail.com).
 
