@@ -9,6 +9,8 @@ tags:
 
 I TRIED HARDER! Passing [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/) is a milestone in my life and I hope to share my OSCP journey and hope it will help (or inspire) anyone who is trying to pursue it! The exam is **HARD** and the hardest exam I've ever done - spending more than about 18 hours hacking straight was tough (out of the 5 machines I rooted 3 boxes and managed to get low-privilege user access on the 4th one, with nothing for the last one). I'm thankful to have received many useful tips that have helped me pass this exam and hope this blog post helps pass it on. 
 
+TDLR: [OSCP START](#START)
+
 # FIRST SHELL
 
 About 1 year or less ago, I knew nothing about penetration testing or what a getting-a-shell was. (*RCE is just the worst kind of thing that can happen to anyone/company/application in Security context and getting a shell is like that, basically Pwn the system, gaining entry into system servers*). I am in no way a seasoned or very technically skilled in Infosec matters, although I dabble abit in software development in some Java a few years and then worked as a system administrator touching Unix systems, issuing commands on terminal were comfortable for me, I think it did helped me with catching up the courses eg. writing bash scripts etc.
@@ -24,7 +26,7 @@ Tip: *This will help for dealing with Linux [wargames bandit](https://overthewir
 Tip: *Good to do vulnerable machines like [Vulnhub](https://www.vulnhub.com/)/[Hack The Box](https://www.hackthebox.eu/) listed in [TJnull's OSCP blog post](https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html)*
 Tip: *Good bloggers that inspired me to do OSCP - [hakluke](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440), [James Hall](https://411hall.github.io/OSCP-Preparation/), [Abatchy](https://www.abatchy.com/2017/03/how-to-prepare-for-pwkoscp-noob), [KongWenBin](https://kongwenbin.wordpress.com/2017/02/23/officially-oscp-certified/)*
 
-# OSCP Start
+# <a name="START"></a>OSCP START
 
 After sleeping on the idea of starting OSCP for a while (*what if i fail? if buy labs and time runs out? should i hold it until i become more Pro/skillful?*) I finally YOLO and signed up for the course **90days lab + exam** and expected to start the labs Right away, but damn there was a wait time (about 1 month). After the wait, I finally got the download link for videos/course materials in my email, at this point your labs are also active which means you could login and start hacking away. 
 
