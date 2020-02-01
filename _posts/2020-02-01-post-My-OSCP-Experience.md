@@ -70,14 +70,12 @@ Tip: *Do TJNull's OSCP-like boxes and keep learning. Give yourself a time-limit 
 # EXAM DAY
 The exam duration is 23h 45mins and made sure I read the [OSCP exam guide](https://support.offensive-security.com/oscp-exam-guide/) doubly and triple times beforehand incase anything was missed out or forgotten. I used OBS Recorder for video recording as I was afraid to miss out any screenshots for reports. The exam has 5 machines that I need to get root/admin access, total adding up the score 100 points. The breakdown score for each machines are 25 (buffer overflow), 25, 20, 20, 10 points respectively. You should get the buffer overflow machine in less than 1-2hrs if you practiced it as exactly how it was taught in the course. 
 
-My plan was simply to work on the buffer overflow machine while I run [AutoRecon] to scan the other 4 machines. After the scans completed and my Buffer overflow is done, It would be perfect to work on them with the scan outputs all ready for me.
+My plan was simply to work on the buffer overflow machine while I run [AutoRecon](https://github.com/Tib3rius/AutoRecon) to scan the other 4 machines. After the scans completed and my Buffer overflow is done, It would be perfect to work on them with the scan outputs all ready for me.
 
 And I had a target timeline like this: 
 
 1000-0100hrs (15hrs) - hack all 
-
 0100-0700hrs (6hrs) - sleep sweet 
-
 0700-1000hrs (3hrs) - last effort and to check flags submitted/recorded/screenshot.
 
 The actual was:
