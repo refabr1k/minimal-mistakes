@@ -1,11 +1,13 @@
 ---
-title: "Building a Money Tracking Bot (Telegram) from scratch"
+title: "Building a Money Tracking Bot (Telegram)"
 date: 2020-03-06
 categories:
   - Learning
 tags:
   - Python
 ---
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/telegram/logo.png)
 
 TLDR:
 -	Learn python basics from [https://www.hackerrank.com/](https://www.hackerrank.com/)
@@ -21,7 +23,7 @@ You'll get a "Problem" and some given conditions to solve the challenge. Type ou
 
 
 # Learn how to build Telegram Bots in Python! 
-I also stumbled upon a great follow along video tutorial on [NUS Hackers Hackerschool - Developing Telegram Bots using Python](https://engineers.sg/video/nus-hackers-hackerschool-developing-telegram-bots-using-python--3806). There are some basics here on how to build a simple Telegram bot. While following along, I was also inspired to try building a Telegram Bot. Actually code something Is the best way to learn, isn't it?
+I also stumbled upon a great follow along video tutorial on [NUS Hackers Hackerschool - Developing Telegram Bots using Python](https://engineers.sg/video/nus-hackers-hackerschool-developing-telegram-bots-using-python--3806). There are some basics here on how to build a simple Telegram bot. While following along, I was also inspired to try building a Telegram Bot. Actually coding something Is the best way to learn, isn't it?
 
 # Master Of Coin Telegram Bot (built in Python)
 Using python API `pyTelegramBotAPI` which is a simple wrapper building bots in python (with many examples that come along at the API Github page). I built a simple money tracking bot. The idea of what this bot can do is to allow quick and easy way to record expenses! Sure, there are better free and nicer looking mobile apps out there to track expenses with but sometimes it takes just too many taps/clicks to do something as simple as recording how much I ate for lunch or 'Food'. This little bot is not designed or optimized to serve bazzillion or gazzilion users! It was a fun project shared among close friends and family - the amazing thing is you can take this code and customize it anyway you want it that fits your needs. Example the categories used for recording a new spending doesn't suit you, change it! 
