@@ -75,6 +75,7 @@ Note: Ideally the bot should be setup in the cloud or some FaaS instead of runni
 `data.json` file is loaded on every read/write action into a global dictionary, with the following json key-value structure
 
 ```json
+{
     "CHAT ID 1": [
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
