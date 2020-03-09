@@ -9,7 +9,7 @@ tags:
 
 TLDR:
 -	Learn python basics from [https://www.hackerrank.com/](https://www.hackerrank.com/)
--	Learn building telegram bots [engineers.sg](https://engineers.sg/episodes/search?search=telegram)
+-	Learn building telegram bots [NUS Hackers Hackerschool - Developing Telegram Bots using Python](https://engineers.sg/video/nus-hackers-hackerschool-developing-telegram-bots-using-python--3806)
 -	Fun telegram bot project source code [https://github.com/refabr1k/MASTER-OF-COIN_telegram_bot](https://github.com/refabr1k/MASTER-OF-COIN_telegram_bot) 
 
 # Python for beginners! 
