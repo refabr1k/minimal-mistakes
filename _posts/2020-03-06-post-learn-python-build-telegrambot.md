@@ -79,19 +79,19 @@ Note: Ideally the bot should be setup in the cloud or some FaaS instead of runni
     "CHAT ID 1": [
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
-        ...
+        "...",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>"
     ],
     "CHAT ID 2": [
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
-        ...
+        "...",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>"
     ],
     "CHAT ID 2": [
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>",
-        ...
+        "...",
         "<DD-MMM-YYYY HH:MM>,<CategoryString>,<Amount>"
     ]
 }
