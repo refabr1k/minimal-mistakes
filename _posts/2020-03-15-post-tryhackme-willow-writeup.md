@@ -137,12 +137,12 @@ There is a hint from the message earlier that the cipher text would be a private
 
 So the encrypted text has a pattern here too, there are 5 blocks of `3233363720` that are repeated at the start which represents `-` character. Looking further, there will be the same 5 blocks digits that represents the closing `-----` characters. 
 
-![analyse1](screens/analyse1.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/analyse1.png)
 
 
 I ran these digits through a python script to decrypt it using the formula `decrypted = (encrypted ** d) % n` but didn't get anything that made sense. I would assume the the decrypted value should be convertable to ASCII. I got something after doing some tests and found that there were "delimiters" which is represented by `20` (which turns out it is HEX for SPACE) Argh, I should have tried dumping the whole text into a HEX converter earlier and save all this trouble! Anothing verification that let me infer I am on thr right track is: when using sublime text, I was able to see recurring blocks when using highlight, for an instance, the character "E" in the text "PRIVATE KEY" happened 2 times and is represented by the digits `38363030`. 
 
-![analyse2](screens/analyse2.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/analyse2.png)
 
 
 To test whether I was right, I ran the digits `38363030` which should be the encrypted character "E"  digits through a HEX converter (like CyberChef) and got `8600` back. Using our formula again (python) `(8600**61527)%37627` returned `69` which is ASCII for `E`. Bingo!
@@ -166,7 +166,7 @@ for s in encrypted.split(" "):
 print(rsakey)
 ```
 
-![decrypt_success](screens/decrypt_success.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/decrypt_success.png)
 
 
 ## Cracking SSH Key with John
@@ -174,7 +174,7 @@ Using ssh2john tool, prep the keys into a John readable format that will be used
 
 Using John we can now crack the keys `john --wordlist=/usr/share/wordlists/rockyou.txt id_rsa.hash`
 
-![ssh_cracked.png](screens/ssh_cracked.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/ssh_cracked.png)
 
 
 ## Getting User
@@ -186,7 +186,7 @@ ssh willow@10.10.186.94 -i rsa.key
 ```
 When prompted for passphrase, use the password cracked from private SSH Keys earlier.
 
-![ssh_login.png](screens/ssh_login.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/ssh_login.png)
 
 
 Now that we are in! We see no flag but a `user.jpg`. Using scp copy out the file using and opening it revealed the first flag!
