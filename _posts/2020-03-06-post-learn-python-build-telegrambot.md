@@ -7,12 +7,13 @@ tags:
   - Python
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/telegram/logo.png)
-
 TLDR:
 -	Learn python basics from [https://www.hackerrank.com/](https://www.hackerrank.com/)
 -	Learn building telegram bots [NUS Hackers Hackerschool - Developing Telegram Bots using Python](https://engineers.sg/video/nus-hackers-hackerschool-developing-telegram-bots-using-python--3806)
 -	Fun telegram bot project source code [https://github.com/refabr1k/MASTER-OF-COIN_telegram_bot](https://github.com/refabr1k/MASTER-OF-COIN_telegram_bot) 
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/telegram/logo.png)
+
 
 # Python for beginners! 
 Python is great! It is clean, efficient and simple to write. [https://www.hackerrank.com/](https://www.hackerrank.com/) is a great place to learn the basics - you get to level up your ranks everytime a challenge is completed. Theres a great discussion sections in each challenges where people share their take on each challenge, eg. You'll be mindblown how these smart people can write your 20 line codes in 2 just lines!) 
