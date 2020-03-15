@@ -10,10 +10,9 @@ tags:
   - Steganography
 ---
 
-# TryHackMe - Willow Writeup
-![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/tryhackme_willow.png)
+This is a boot-to-root CTF from [TryHackMe](https://www.tryhackme.com/) and the CTF can be found @ https://www.tryhackme.com/room/willow. Key lessons learnt here: RSA algorithm, writing python functions to decrypt messages, cracking SSH key, steganography. 
 
-This is a boot-to-root CTF from [TryHackMe](https://www.tryhackme.com/) and the challenge can be found @ https://www.tryhackme.com/room/willow. Key lessons learnt here: RSA algorithm, writing python functions to decrypt messages, cracking SSH key, steganography. 
+![]({{ site.url }}{{ site.baseurl }}/assets/images/thm/willow/tryhackme_willow.png)
 
 ## Nmap Scan
 
