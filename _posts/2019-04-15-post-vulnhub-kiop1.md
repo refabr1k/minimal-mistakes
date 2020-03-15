@@ -2,7 +2,7 @@
 title: "Vulnhub - Kioptrix: Level 1 (#1)"
 date: 2019-04-15
 categories:
-  - Capture The Flag
+  - CTF
 tags:
   - Vulnhub
   - OSCP

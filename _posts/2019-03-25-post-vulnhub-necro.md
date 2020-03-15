@@ -2,7 +2,7 @@
 title: "Vulnhub - The Necromancer (Lessons learnt for newbies!)"
 date: 2019-03-25
 categories:
-  - Capture The Flag
+  - CTF
 tags:
   - Vulnhub
 ---
