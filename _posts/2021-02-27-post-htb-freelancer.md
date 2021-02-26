@@ -9,9 +9,9 @@ tags:
   - Web
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/assets/images/htb/synack/freelancer/freelancer.png)
-
 This HTB challenge is great for learning SQL injection! While you could also do it easily with SQLmap, I prefered doing it with Manual approach. Though time consuming but really rewarding and a great learning experience (and refresher for those who had already done OSCP before which was covered in its course materials).
+
+![]({{ site.url }}{{ site.baseurl }}/assets/images/htb/synack/freelancer/freelancer.png)
 
 TLDR version: 
 - See something juicy when viewsource 
