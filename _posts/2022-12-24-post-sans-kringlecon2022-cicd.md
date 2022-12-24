@@ -1,5 +1,5 @@
 ---
-title: "SANS Kringlecon 2022"
+title: "SANS Kringlecon 2022 - Jolly CI/CD"
 date: 2022-12-24
 categories:
   - CTF
